@@ -88,7 +88,7 @@ class WildcardPatternMatching extends React.Component {
                             </td>
                         </tr>
                         <tr>
-                            <td><input type="submit" value="TEST MATCH!"/></td>
+                            <td><input type="submit" value="TEST MATCH"/></td>
                             <td>Result: <span style={{"color": "red"}}>{this.state.result}</span></td>
                         </tr>
                         </tbody>
