@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e89f4e4783239f671a5b",
+    "revision": "922ed1b18c07f13ec82d",
     "url": "/wildcard-pattern-matching/static/css/main.42e357f5.chunk.css"
   },
   {
-    "revision": "e89f4e4783239f671a5b",
-    "url": "/wildcard-pattern-matching/static/js/main.4bc343ad.chunk.js"
+    "revision": "922ed1b18c07f13ec82d",
+    "url": "/wildcard-pattern-matching/static/js/main.2e2ebd2a.chunk.js"
   },
   {
     "revision": "90c027bedba0226d1901",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/wildcard-pattern-matching/static/js/2.4fbec745.chunk.js"
   },
   {
-    "revision": "fca98338ffd3b156efce3b4a3881aa54",
+    "revision": "d4b5690ae8e4e43af634475e23beb75f",
     "url": "/wildcard-pattern-matching/index.html"
   }
 ];

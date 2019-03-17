@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/wildcard-pattern-matching/precache-manifest.10d87fd03d7a253cb7cffeea49a6c1c6.js"
+  "/wildcard-pattern-matching/precache-manifest.d6f30bb979cf8d7eb50a18e673d0b105.js"
 );
 
 workbox.clientsClaim();
